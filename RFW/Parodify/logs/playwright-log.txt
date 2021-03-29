@@ -1,0 +1,50 @@
+{"level":30,"time":"2021-02-22T14:26:44.215Z","pid":16664,"hostname":"soft020-732","msg":"Listening on 64989"}
+{"level":30,"time":"2021-02-22T14:26:45.723Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:26:46.097Z","pid":16664,"hostname":"soft020-732","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-22T14:26:46.097Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:26:53.430Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:26:53.430Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:26:53.430Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:26:53.466Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:26:53.466Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:26:53.466Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:26:54.801Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:26:55.255Z","pid":16664,"hostname":"soft020-732","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-22T14:26:55.255Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:26:59.791Z","pid":16664,"hostname":"soft020-732","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-22T14:27:00.236Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:00.236Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:00.236Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:00.275Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:00.275Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:00.275Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:01.668Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:02.063Z","pid":16664,"hostname":"soft020-732","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-22T14:27:02.063Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:06.950Z","pid":16664,"hostname":"soft020-732","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-22T14:27:07.401Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:07.401Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:07.401Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:07.438Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:07.438Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:07.438Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:08.871Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:09.297Z","pid":16664,"hostname":"soft020-732","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-22T14:27:09.297Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:14.405Z","pid":16664,"hostname":"soft020-732","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-22T14:27:14.871Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:14.871Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:14.872Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:14.910Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:14.910Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:14.910Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:16.482Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:16.917Z","pid":16664,"hostname":"soft020-732","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-22T14:27:16.917Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:21.407Z","pid":16664,"hostname":"soft020-732","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-02-22T14:27:21.850Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:21.850Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:21.850Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
+{"level":30,"time":"2021-02-22T14:27:21.882Z","pid":16664,"hostname":"soft020-732","msg":"Changed active context"}
+{"level":30,"time":"2021-02-22T14:27:21.882Z","pid":16664,"hostname":"soft020-732","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-22T14:27:21.882Z","pid":16664,"hostname":"soft020-732","msg":"Changed active page"}
